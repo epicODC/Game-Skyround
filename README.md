@@ -8,11 +8,11 @@ chmod +x main.py
 ```
 或
 ```
-python main.py
+python2.7 main.py
 ```
 载入地图,  
 
-载入成功后按'0'开始游戏
+载入成功后按`0`开始游戏
 
 2. 游戏操作  
 使用wasd键移动, 绿色是出口, 红色是Boss所在地.
